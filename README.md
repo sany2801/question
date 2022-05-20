@@ -1,4 +1,3 @@
-# question
 <h1>Questions JavaScript:</h1>
 
 <ol>
